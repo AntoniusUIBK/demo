@@ -1,0 +1,12 @@
+# dummy
+test:
+  description: testing1
+  os: fedora-cloud-base
+  disk: 10Gi
+  cores: 1
+  memory: 4Gi
+  initpwd: admin
+  application_id: sandbox
+  team: uibklab
+ # running: 
+  environment: test
